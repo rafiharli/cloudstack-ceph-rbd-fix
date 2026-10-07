@@ -1,0 +1,9 @@
+.env
+.env.*
+*.keyring
+*.rpm
+*.jar
+*.class
+*.log
+rpmbuild/
+rollback/
